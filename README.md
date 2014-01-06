@@ -9,8 +9,8 @@ chat based in nodejs with socket.io, elephant.io and rabbitmq
 $ node api/server.js
 </pre>
 
-## Caracteristicas
+## Features
 
-- Control de autorización de la red por ip
-- Control maximo de usuarios
-- Soporta long polling (1s) y websockets
+- Control Released network ip
+- Maximum User Control
+- Supports long polling (1s) and websockets
